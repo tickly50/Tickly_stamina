@@ -1,5 +1,5 @@
 ## 🚶‍♀️ Infinite Stamina
-- good for PVP server
+- Good for PVP server
 
 ## 💾 Installation
 1. Download the script
