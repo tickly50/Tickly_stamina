@@ -1,7 +1,7 @@
 ## Infinite Stamina
 - good for PVP server
 
-## Installation
+## 💾 Installation
 1. Download the script
 2. Upload the file "Tickly stamina" to you resources folder
 3. Add "ensure tickly stamina" to you server.cfg
