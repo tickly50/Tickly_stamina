@@ -1,2 +1,2 @@
-# Tickly Stamina | Infinite Stamina
+# Infinite Stamina
 - Ultimate stamina
