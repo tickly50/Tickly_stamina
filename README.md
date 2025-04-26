@@ -1,2 +1,2 @@
 # tickly_stamina
-Ultimate stamina
+- Ultimate stamina
