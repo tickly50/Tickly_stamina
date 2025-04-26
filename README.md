@@ -1,2 +1,2 @@
-# tickly_stamina
+# Tickly Stamina
 - Ultimate stamina
