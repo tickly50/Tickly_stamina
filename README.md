@@ -1,4 +1,4 @@
-## Infinite Stamina
+## 🦶 Infinite Stamina
 - good for PVP server
 
 ## 💾 Installation
