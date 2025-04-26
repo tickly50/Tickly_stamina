@@ -1,2 +1,2 @@
 # Infinite Stamina
-- Ultimate stamina
+- infinite stamina
