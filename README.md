@@ -1,5 +1,6 @@
 ## 🚶‍♀️ Infinite Stamina
 - Good for PVP server
+- Optimized
 - Easy installation
 
 ## 💾 Installation
